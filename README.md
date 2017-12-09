@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm stat` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
@@ -16,7 +16,7 @@ Run `ng build:dev` to build the project. The build artifacts will be stored in t
 
 ### For getting Express up.
 
-Run Cd api, once you your are in api folder, do an npm install, and get the routes for different apis up by doing node server.js
+Run `cd api`, once you your are in api folder, do an `npm install`, and get the routes for different apis up by doing `node server.js`
 
 ## Running unit tests
 
